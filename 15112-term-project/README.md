@@ -1,4 +1,4 @@
-#15112-term-project
+# 15112-term-project
 
 How to run:
 
